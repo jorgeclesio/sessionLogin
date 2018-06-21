@@ -1,6 +1,6 @@
 <?php 
 
-session_start();
+session_start(); //Pra iniciar sessão.
 
 require_once("../libs/common.php");
 
